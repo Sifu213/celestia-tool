@@ -9,10 +9,10 @@ This script will allow anyone to easily interact with a local Celestia Light Nod
 - submit a PayForBLob transaction and get back shares
 
 <h3>How to use</h3>
-For deploying it on your server you will need to clone the project an launch the script : 
+For deploying the script on your server you will need to clone the project an launch it : 
 
 <pre>sh celestia_light-node_tools.sh</pre>
 
-Use to diffent command to interact with the node.
+Use the diffents options to easily interact with the node.
 
 
