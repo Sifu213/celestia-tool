@@ -1,2 +1,18 @@
 # celestia-tool
-Tool to easyly interact with a Celestia light node
+<h1>Tool to easily interact with a Celestia light node</h1>
+
+This script will allow anyone to easily interact with a local Celestia Light Node :
+- get your wallet balance
+- get node id
+- get wallet address
+- get the actual block header
+- submit a PayForBLob transaction and get back shares
+
+<h3>How to use</h3>
+For deploying it on your server you will need to clone the project an launch the script : 
+
+<pre>sh celestia_light-node_tools.sh</pre>
+
+Use to diffent command to interact with the node.
+
+
